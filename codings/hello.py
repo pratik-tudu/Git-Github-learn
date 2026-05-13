@@ -7,3 +7,4 @@ def show(name,div):
     print(name)
     print(div)
 print("function is corrected")
+print("Second time code for commit")
