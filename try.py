@@ -6,3 +6,4 @@ print("Again welcome new codes")
 
 print("try file pratik work")
 print("Hello dosto")
+print("Only printing")
