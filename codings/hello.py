@@ -3,3 +3,7 @@ b=6
 print(a+b)
 print("New codes")
 print("another")
+def show(name,div){
+    print(name)
+    print(div)
+}
