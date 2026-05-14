@@ -9,3 +9,4 @@ print("Hello dosto")
 print("Only printing")
 def num():
     print(1)
+print("On Main")
