@@ -1,5 +1,5 @@
 passw="123"
-input_pass="123"
+input_pass=str(input("Enter Pass: "))
 def passcheck(str_pass):
     if(str_pass == passw):
         print("login succesfull")
