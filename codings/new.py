@@ -12,3 +12,5 @@ def newfun(num):
         print("positive")
     else:
         print("negative")
+
+print("Hello friends")
