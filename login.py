@@ -6,3 +6,5 @@ def passcheck(str_pass):
     else:
         print("Incorrect Pass")
 passcheck(input_pass)
+
+print("Login resolved ..")
