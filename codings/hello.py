@@ -9,3 +9,6 @@ def show(name,div):
 print("function is corrected")
 print("Second time code for commit")
 print("new users")
+
+def greet():
+    print("Good morning")
