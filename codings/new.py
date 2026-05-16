@@ -15,3 +15,5 @@ def newfun(num):
 
 print("Hello friends")
 print("experiment continue")
+
+print("hello world")
