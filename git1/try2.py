@@ -3,3 +3,4 @@ print(type(a))
 s="pratik"
 print(type(s))
 print(a)
+print(s)
