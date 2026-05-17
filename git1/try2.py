@@ -4,3 +4,4 @@ s="pratik"
 print(type(s))
 print(a)
 print(s)
+print(a,s)
