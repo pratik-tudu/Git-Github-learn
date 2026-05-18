@@ -17,3 +17,4 @@ print("Hello friends")
 print("experiment continue")
 
 print("hello world")
+print("new day in main")
